@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis F. Cordero</h1>
-<h3 align="center">A passionate full-stack developer and backend developer from India</h3>
+<h3 align="center">A passionate full-stack developer and backend developer from New York City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisc8487&label=Profile%20views&color=0e75b6&style=flat" alt="luisc8487" /> </p>
 
