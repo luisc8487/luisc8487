@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis F. Cordero</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frameworks+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 <h3 align="center">A passionate full-stack developer and backend developer from New York City</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisc8487&label=Profile%20views&color=0e75b6&style=flat" alt="luisc8487" /> </p>
