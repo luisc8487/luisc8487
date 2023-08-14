@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis F. Cordero</h1>
 
-<h3 align="center">A passionate full-stack developer and backend developer from New York City</h3>
+<h3 align="center">A passionate full-stack / back-end developer from New York City</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frameworks+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
