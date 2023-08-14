@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate full-stack / back-end developer from New York City</h3>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luisfcordero4)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frameworks+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 
