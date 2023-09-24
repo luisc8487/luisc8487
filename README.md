@@ -8,8 +8,6 @@ My experience in data engineering has taught me to always question both sides of
 
 I am always looking for new opportunities to collaborate with like-minded individuals, so feel free to reach out to me. Let's create something amazing together!
 
-![](https://komarev.com/ghpvc/?username=luisc8487)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luisfcordero4)
 
 - ⚡ Fun fact **love play soccer**
