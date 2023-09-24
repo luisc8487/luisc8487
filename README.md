@@ -12,8 +12,6 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luisfcordero4)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Gsr7GVc2xytHLCZlDEp1v7NCoYlXUqYNJKZboHNJBOo/edit](https://docs.google.com/document/d/1Gsr7GVc2xytHLCZlDEp1v7NCoYlXUqYNJKZboHNJBOo/edit)
-
 - ⚡ Fun fact **love play soccer**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+body+should+be+treated+rigorously,+that+it+may+not+be+disobedient+to+the+mind.&author=Lucius+Annaeus+Seneca
