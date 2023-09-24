@@ -2,6 +2,12 @@
 
 **`Fullstack Developer and Data Engineer`**
 
+As a fellow at Marcy Lab School, I am passionate about creating innovative solutions that can benefit people's lives. With my background in data engineering and an eagerness to learn new technologies to develop better full-stack applications, I strive to combine these two fields to produce exceptional products that can bring positive change to the world.
+
+My experience in data engineering has taught me to always question both sides of your objective and construct a plan where data has a relationship with other data sets. Once everything is planned out, execute those data sets with a structure query language in order to neatly place each data set in its respected location. With the proper structure set in place, we can deliver a faster response time without wasting extra space.
+
+I am always looking for new opportunities to collaborate with like-minded individuals, so feel free to reach out to me. Let's create something amazing together!
+
 ![](https://komarev.com/ghpvc/?username=luisc8487)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luisfcordero4)
