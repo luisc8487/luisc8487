@@ -24,10 +24,9 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 </p>
 
 ## 📫 Github Stats
-| General      | Most Used Languages |
-|--------------|:----------:|
-|<a href="https://github.com/luisc8487/luisc8487"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luisc8487&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Luis's github stats" /></a> | <a href="https://github.com/luisc8487/luisc8487"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisc8487&theme=dark&langs_count=5" /></a> |
+![](https://github-readme-stats.vercel.app/api?username=luisc8487&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luisc8487&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisc8487&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-| Streak     |
-|------------|
-| <a href="https://github.com/luisc8487/luisc8487"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisc8487&theme=dark" alt="Luis's github stats" /></a> |
+[![](https://visitcount.itsvg.in/api?id=luisc8487&icon=6&color=6)](https://visitcount.itsvg.in)
+
