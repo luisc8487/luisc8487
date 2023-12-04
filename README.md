@@ -13,7 +13,7 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+body+should+be+treated+rigorously,+that+it+may+not+be+disobedient+to+the+mind.&author=Lucius+Annaeus+Seneca
 )](https://github.com/piyushsuthar/github-readme-quotes)
 
-# Socials
+## Socials
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luisfcordero4)
 
 ## Languages and Tools
