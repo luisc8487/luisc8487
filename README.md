@@ -26,7 +26,7 @@ I am always looking for new opportunities to collaborate with like-minded indivi
 ## 📫 Github Stats
 | General      | Most Used Languages |
 |--------------|:----------:|
-|    <a href="https://github.com/luisc8487"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luisc8487&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Luis's github stats" /></a> | <a href="https://github.com/luisc8487/luisc8487"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisc8487&theme=dark&langs_count=5" /></a> |
+|<a href="https://github.com/luisc8487/luisc8487"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luisc8487&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Luis's github stats" /></a> | <a href="https://github.com/luisc8487/luisc8487"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisc8487&theme=dark&langs_count=5" /></a> |
 
 | Streak     |
 |------------|
