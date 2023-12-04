@@ -8,7 +8,7 @@ My experience in data engineering has taught me to always question both sides of
 
 I am always looking for new opportunities to collaborate with like-minded individuals, so feel free to reach out to me. Let's create something amazing together!
 
-- ⚡ Fun fact **love play soccer**
+- ⚡ Fun fact **love playing soccer**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+body+should+be+treated+rigorously,+that+it+may+not+be+disobedient+to+the+mind.&author=Lucius+Annaeus+Seneca
 )](https://github.com/piyushsuthar/github-readme-quotes)
